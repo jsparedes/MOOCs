@@ -4,6 +4,6 @@ The purpose of this application is shown how hectares of forests have been lost 
 
 ![Peru image satellite](http://cache3.asset-cache.net/gc/142036055-peru-true-colour-satellite-image-with-border-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=sF%2BQfCsa8E4LKn2THfvymcTCcZwZ%2FA5r2G7wKEhJ7ok%3D)
 
-The dataset has been obtained from [GLOBAL FOREST WATCH](http://www.globalforestwatch.org/country/PER) which has a record of Peru's forest between 2000 and 2012.
+The dataset has been obtained from [GLOBAL FOREST WATCH](http://www.globalforestwatch.org/country/PER) which has a record of Peru's forest between the years 2000 and 2012.
 
 Source code is available on the [GitHub](http://github.com/warderm6/MOOCs/tree/master/Coursera/DataScience_spec/5%20Reproducible%20Research/shiny%20peru%20forest).
